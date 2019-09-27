@@ -1,0 +1,27 @@
+C:\Users\Master\Desktop\LINQ - Sample Queries\C#\bin\Debug\SampleQueries.exe
+C:\Users\Master\Desktop\LINQ - Sample Queries\C#\bin\Debug\SampleQueries.pdb
+C:\Users\Master\Desktop\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.csprojAssemblyReference.cache
+C:\Users\Master\Desktop\LINQ - Sample Queries\C#\obj\Debug\QuerySamples.Properties.Resources.resources
+C:\Users\Master\Desktop\LINQ - Sample Queries\C#\obj\Debug\SampleSupport.SampleForm.resources
+C:\Users\Master\Desktop\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.csproj.GenerateResource.cache
+C:\Users\Master\Desktop\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.exe
+C:\Users\Master\Desktop\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.pdb
+C:\Epam_Step2\29.04.2019\LINQ - Sample Queries\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.csprojAssemblyReference.cache
+C:\Epam_Step2\29.04.2019\LINQ - Sample Queries\LINQ - Sample Queries\C#\obj\Debug\QuerySamples.Properties.Resources.resources
+C:\Epam_Step2\29.04.2019\LINQ - Sample Queries\LINQ - Sample Queries\C#\obj\Debug\SampleSupport.SampleForm.resources
+C:\Epam_Step2\29.04.2019\LINQ - Sample Queries\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.csproj.GenerateResource.cache
+C:\Epam_Step2\29.04.2019\LINQ - Sample Queries\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.csproj.CoreCompileInputs.cache
+C:\Epam_Step2\29.04.2019\LINQ - Sample Queries\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.exe
+C:\Epam_Step2\29.04.2019\LINQ - Sample Queries\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.pdb
+C:\Epam_Step2\29.04.2019\LINQ - Sample Queries\LINQ - Sample Queries\C#\bin\Debug\SampleQueries.exe
+C:\Epam_Step2\29.04.2019\LINQ - Sample Queries\LINQ - Sample Queries\C#\bin\Debug\SampleQueries.pdb
+C:\Epam_Step2\29.04.2019 - day 18LINQ\LINQ - Sample Queries\LINQ - Sample Queries\C#\bin\Debug\SampleQueries.exe
+C:\Epam_Step2\29.04.2019 - day 18LINQ\LINQ - Sample Queries\LINQ - Sample Queries\C#\bin\Debug\SampleQueries.pdb
+C:\Epam_Step2\29.04.2019 - day 18LINQ\LINQ - Sample Queries\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.csprojAssemblyReference.cache
+C:\Epam_Step2\29.04.2019 - day 18LINQ\LINQ - Sample Queries\LINQ - Sample Queries\C#\obj\Debug\QuerySamples.Properties.Resources.resources
+C:\Epam_Step2\29.04.2019 - day 18LINQ\LINQ - Sample Queries\LINQ - Sample Queries\C#\obj\Debug\SampleSupport.SampleForm.resources
+C:\Epam_Step2\29.04.2019 - day 18LINQ\LINQ - Sample Queries\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.csproj.GenerateResource.cache
+C:\Epam_Step2\29.04.2019 - day 18LINQ\LINQ - Sample Queries\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.csproj.CoreCompileInputs.cache
+C:\Epam_Step2\29.04.2019 - day 18LINQ\LINQ - Sample Queries\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.exe
+C:\Epam_Step2\29.04.2019 - day 18LINQ\LINQ - Sample Queries\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.pdb
